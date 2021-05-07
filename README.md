@@ -24,4 +24,4 @@
 # Contributions
 ### Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-<h2 align="center"><a href="harshtech.me">Thanks!</a>
+<h1 align="center"> Thanks!
